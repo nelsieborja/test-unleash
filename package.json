@@ -1,0 +1,14 @@
+{
+  "name": "test-unleash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nelsie Borja <nelsieborja@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "unleash-server": "^6.3.0"
+  }
+}

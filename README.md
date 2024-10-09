@@ -1,4 +1,4 @@
-# Running the Unleash service
+# Running the [Unleash](https://www.getunleash.io) service
 
 Run following commands in a terminal/bash shell:
 
@@ -28,3 +28,9 @@ brew services restart postgresql@15
 ```shell
 node server.js
 ```
+
+---
+## References
+
+* [Unleash server setup](https://docs.getunleash.io/using-unleash/deploy/getting-started)
+* [Postgres15 permission denied for schema public](https://stackoverflow.com/questions/74110708/postgres-15-permission-denied-for-schema-public)
